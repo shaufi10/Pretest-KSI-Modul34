@@ -1,0 +1,49 @@
+1. - VPN adalah sebuah jaringan pribadi yang menggunakan medium nonpribadi (misalnya internet) untuk menghubungkan 
+     antar remote-site secara aman. 
+     Fungsinya 
+     Bisa mengakses home network dalam perjalanan
+   - Telnet adalah remote login yang yang terjadi pada jarkom yang memungkinkan usernya dapat melakukan
+     login dan bekerja dari jarak yang jauh melalui jaringan internet. 
+     Fungsinya 
+     untuk mengontrol dan mengakses komputer dari jarak yang jauh melalui jaringan internet
+   - FTP adalah adalah sebuah protokol internet yang berjalan di dalam lapisan aplikasi yang merupakan standar 
+     untuk pentransferan berkas (file)
+     Fungsinya
+     untuk melakukan pengunduhan (download) dan penggugahan (upload) berkas-berkas komputer antara klien FTP dan 
+     server FTP.
+
+2.  Tunneling pada VPN adalah bagian paling dasar VPN untuk membuat suatu jaringan private melalui jaringan internet,
+    tunneling bisa juga dikatakan sebagai enkapsulasi suatu protokol ke dalam paket protokol 
+
+3. Kelebihan VPN
+   - Biaya relatif murah
+   - Fleksibilitas
+   - Pengaturan dan administrasinya mudah
+   - Kerumitan pengaturan bisa di atasi dengan teknologi tunneling
+   
+   Kekurangan VPN
+   - VPN membutuhkan perhatian serius pada keamanan jaringan internet
+   - Ketersediaan dan perfomansi jaringan khusus perusahaan sangat bergantung pada faktor2 yang berada di luar kendali perusahaan
+   - Perangkat pembangunan teknologi jaringan VPN dari beberapa vendor bisa berbeda-beda
+   
+   Kelebihan Remote Access (untuk remote access yang saya pilih teamviewer)
+   - Mudah digunakan 
+   - Hidupkan-matikan PC secara remote
+   - Dapat mengontrol penuh terhadap mouse dan keyboard
+   - Memiliki fasilitas chatting
+   
+   Kekurangan Remote Access
+   - Dari segi keamanan aplikasi sangatlah kurang
+   - Tidak bisa membedakan antara client dan server
+   - Loadingnya lebih lambat
+   
+4. Kuganaan Wireshark
+   - Menganalisa jaringan
+   - Menangkap paket data yang berkeliaran dalam jaringan yang terlihat
+   - Penganalisaan informasi yang didapat dilakukan dengan sniffing 
+   - Dapat mengetahui IP seseorang melalui typingan room
+   - Membaca data secara langsung dari Ethernet, Token-Ring, FDDI dll.
+   
+5.
+4. 
+   
