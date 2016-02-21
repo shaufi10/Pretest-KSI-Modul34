@@ -44,9 +44,18 @@
    - Dapat mengetahui IP seseorang melalui typingan room
    - Membaca data secara langsung dari Ethernet, Token-Ring, FDDI dll.
    
-5. - VPN Server
-   -
+5. - OpenVPN adalah aplikasi open source untuk Virtual Private Networking (VPN), yang mana aplikasi tersebut dapat membuat koneksi 
+     point-to-point tunnel yang telah terenkripsi.
+   - Psiphon adalah sebuah penjelajah web open-source yang mana tujuannya adalah untuk mengakali sensor yang di hadapi oleh user
+     pada banyak negara, di mana kemerdekaan berekspresi di larang, dan akses pada website tertentu di blokir.
+   - Tor Browser adalah perangkat gratis dan opensource yang membantu Anda mempertahankan terhadap suatu bentuk jaringan memata-matai
+     yang mengancam kebebasan pribadi dan privasi, kegiatan bisnis rahasia dan hubungan, dan keamanan negara yang dikenal sebagai 
+     analisis lalu lintas.
+     
 
-6. - Radmin
-   - Remote Computer Access
-   - TeamViewer
+6. - PuTTY adalah sebuah program open source yang dapat Anda gunakan untuk melakukan protokol jaringan SSH, Telnet dan Rlogin.
+   - Radmin adalah software aplikasi keamanan yang dapat meremot dan mengontrol clien dari server dan wdapat digunkan ketika anda 
+     berada di dalam sebuah jaringan komputer dan dapat juga mengontrol jaringan komputer tanpa harus menyentuh komputer client.
+   - Remote PC adalah sebuah teknologi yang mengijinkan kita untuk terhubung dengan komputer lain.
+   - TeamViewer adalah suatu software yang cukup sederhana dan sangat mudah digunakan untuk beberapa keperluan terutama melakukan 
+     akses PC secara remote melalui internet.
